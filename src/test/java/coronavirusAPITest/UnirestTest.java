@@ -3,14 +3,15 @@ package coronavirusAPITest;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
-import org.apache.http.HttpStatus;
-import org.junit.Test;
 
+import org.junit.Test;
+/*
+import org.apache.http.HttpStatus;
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.JsonNode;
 import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
-
+*/
 public class UnirestTest {
 /*
 	@Test
