@@ -12,7 +12,7 @@ import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
 
 public class UnirestTest {
-
+/*
 	@Test
 	public void shouldReturnAllCases() throws UnirestException {
 		HttpResponse<JsonNode> response = Unirest
@@ -36,4 +36,5 @@ public class UnirestTest {
 		assertNotNull(response.getBody());
 		assertEquals((int)HttpStatus.SC_OK,response.getStatus());
 	}
+*/
 }
